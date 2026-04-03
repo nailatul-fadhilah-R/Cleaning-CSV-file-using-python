@@ -1,7 +1,7 @@
 # Cleaning CSV file using python
 
 ## Project Overview
-This project focuses on transforming a messy, synthetic employee dataset into a clean, structured, and analysis-ready format. Real-world data often arrives with encoding issues, inconsistent date formats, mixed types, and noise. This repository demonstrates a robust, repeatable 5-stage workflow (Load, Inspect, Clean, Review, Export) using Python and Pandas.
+This project focuses on transforming a messy, synthetic employee dataset into a clean, structured, and analysis-ready format. Real-world data often arrives with encoding issues, inconsistent date formats, mixed types, and noise. This repository demonstrates a robust, repeatable 5-stage workflow (Load, Inspect, Clean, Review, Export) using Python and Pandas. this project refrence from [roadmap.sh](https://roadmap.sh/projects/clean-csv-pandas-workflow)
 
 ## Project Functionality
 The primary function of this project is to automate the rectification of common data entry and system export errors. Key functionalities include:
